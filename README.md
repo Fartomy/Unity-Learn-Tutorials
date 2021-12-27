@@ -4,8 +4,8 @@
 :recycle: This is about Unity Learn **Completed Courses**. Every course content completed on the Unity Learn platform will be uploaded here.
 
 ## Contents
-- ✅ [Mode To Cube](https://github.com/Fartomy/Unity-Learn-Completed-Courses/tree/main/Mode%20The%20Cube)
-- ✅ [Error Project](https://github.com/Fartomy/Unity-Learn-Completed-Courses/tree/main/Error%20Project)
+- ✅ [Mode To Cube](https://learn.unity.com/tutorial/mod-the-cube)
+- ✅ [Debug The App](https://learn.unity.com/tutorial/debug-the-app)
 - Processing..
 ## How to Import Package
 <img src="https://docs.unity3d.com/uploads/Main/AnalyticsBasicImportPackage.gif" align="center" height="250">
