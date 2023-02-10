@@ -8,7 +8,7 @@
 - ✅ [Debug The App](https://learn.unity.com/tutorial/debug-the-app)
 - Processing..
 ## How to Import Package
-<img src="https://docs.unity3d.com/uploads/Main/AnalyticsBasicImportPackage.gif" align="center" height="250">
+<img src="https://github.com/Fartomy/Unity-Learn-Projects/blob/main/images/package.gif" align="center" height="335">
 <hr/>
 
 ### If You Want to Review
